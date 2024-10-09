@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Conversion de Tiempo</string>
+    <string-array name="spinner_items">
+        <item>Segundos</item>
+        <item>Minutos</item>
+        <item>Horas</item>
+    </string-array>
+</resources>
